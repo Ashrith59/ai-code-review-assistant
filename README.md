@@ -43,6 +43,13 @@ python -m uvicorn api.app:app --reload
 
 python -m streamlit run ui/app.py
 
+## Clone the Repository
+
+```bash
+git clone
+https://github.com/Ashrith59/AI-Code-Review-Assistant.git
+cd AI-Code-Review-Assistant
+
 ## Author
 
 Ashrith
